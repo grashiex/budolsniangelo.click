@@ -6,10 +6,10 @@ window.APP_CONFIG = {
   brandLogo: "",
   domains: ["budolsniangelo.click"],
   defaultPrefix: "",
-  defaultPassword: "@isseyavah",
+  defaultPassword: "031302qwe",
 
   // OWNER ONLY — never give to Person 1/2/3. Required to change unlock password.
-  ownerPin: "07242007",
+  ownerPin: "idunnogelo13",
 
   contactAdminLabel: "Contact Admin",
   contactAdminLink: "https://t.me/grashiex",
